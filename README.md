@@ -9,13 +9,14 @@ The function TagManager::getSelectedTagIds() provides the primary keys to the se
 
 # Screenshots #
 
-![ttc](https://github.com/springer13/QtTagging/blob/master/sceenshots/01.png)
+<img src="https://github.com/springer13/Qt-TagManager/blob/master/screenshots/01.png" width="400">
 
-![ttc](https://github.com/springer13/QtTagging/blob/master/sceenshots/02.png)
+<img src="https://github.com/springer13/Qt-TagManager/blob/master/screenshots/02.png" width="400">
 
-![ttc](https://github.com/springer13/QtTagging/blob/master/sceenshots/03.png)
+<img src="https://github.com/springer13/Qt-TagManager/blob/master/screenshots/03.png" width="400">
 
-![ttc](https://github.com/springer13/QtTagging/blob/master/sceenshots/04.png)
+<img src="https://github.com/springer13/Qt-TagManager/blob/master/screenshots/04.png" width="400">
+
 
 # Contributions #
 
